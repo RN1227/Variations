@@ -1,0 +1,69 @@
+#para1 {
+    
+    font-family: 'Syne Mono', serif;  
+}
+
+#para2 {
+    font-family: 'Comfortaa', serif;
+    margin-left: 720px;
+    
+    
+}
+
+#para3 {
+    font-family: 'Yantramanav', serif;
+    
+}
+
+#para4 {
+    font-family: 'Secular One', serif;
+    
+}
+
+#diverged {
+    letter-spacing: 30px;
+}
+
+#yellow {
+    color: gold;
+    font-size: xx-large;
+}
+
+#both {
+    margin-left: 500px;
+    color: red;
+}
+
+#down {
+    margin-left: 170px;
+    color: green;
+}
+
+#undergrowth {
+    letter-spacing: 20px;
+    color: green;
+}
+
+#far {
+    letter-spacing: 20px;
+    color:magenta;
+}
+
+#ug2 {
+    line-height: 50%;
+}
+
+#green {
+    color: green;
+    font-style: italic;
+    letter-spacing: 5px;
+}
+
+#morning {
+    color: gold;
+    letter-spacing: 30px;
+}
+#trodden {
+    font-style:italic;
+    letter-spacing: 30px;
+}

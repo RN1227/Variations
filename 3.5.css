@@ -1,0 +1,20 @@
+#poem {
+    
+    border-style:ridge;
+    border-width: 50px;
+    border-color:darkolivegreen;
+    padding-left: 290px;
+    
+    
+}
+
+#poem2 {
+    border-style:ridge;
+    border-width: 50px;
+    border-color:chartreuse;
+}
+#poem3 {
+    border-style:ridge;
+    border-width: 50px;
+    border-color:darkgreen;
+}

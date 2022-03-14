@@ -1,0 +1,23 @@
+#para1 {
+    color:deepskyblue;
+    border-left-style:dotted;
+    
+    
+    
+}
+#para2 {
+    color:crimson;
+    border-left-style: double;
+}
+
+#para3 {
+    color: chartreuse;
+    border-left-style:outset;
+}
+
+#para4 {
+    color: darkgreen;
+    border-left-style:ridge;
+}
+
+

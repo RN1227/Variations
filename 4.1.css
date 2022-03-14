@@ -1,0 +1,36 @@
+#para1 {
+    border-style:double;
+    border-width: 50px;
+    border-color:darkturquoise;
+    padding-left: 10px;
+    height: 200px;
+    width: 500px;
+font-family: 'Staatliches', serif;
+}
+
+#para2 {
+    font-family: 'Yanone Kaffeesatz', serif;
+    
+    border-style:double;
+    border-width: 50px;
+    border-color:tomato;
+    width: 200px;
+}
+
+#para3 {
+    font-family: 'Supermercado One', serif;
+    border-style:double;
+    border-width: 50px;
+    border-color:darkturquoise;
+    padding-left: 10px;
+    height: 350px;
+    width: 500px;
+}
+
+#para4 {
+    font-family: 'Caveat', cursive;
+    border-style:double;
+    border-width: 50px;
+    border-color:tomato;
+    width: 200px;
+}

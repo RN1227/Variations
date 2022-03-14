@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+#heading {
+    position: static;
+    font-family: 'Staatliches', serif;
+    font-size: 100px;
+    padding-top: 0px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+#author {
+    position: static;
+    font-family: 'Supermercado One', serif;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    background-color: black;
+}
+
+
+
+.button {
+    position: static;
+    border: none;
+    background-color: red;
+    color: black;
+    margin-top: 60px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    cursor: pointer;
+    font-family: 'Staatliches', serif;
+  }
+
+.phase {
+    position: static;
+    height: 200px;
+    width: 200px;
+    background-color:red;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 620px;
+  }
